@@ -27,3 +27,7 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+* **Jupyter Notebook:** I used it today to experiment with the pandas library and view data tables directly beneath the code, which is the essence of "Exploration."
+
+* **Python Script:** I used it to run the code as a single, quick command in the terminal (`python src/smoke_test.py`) without needing an interactive interface, which is the essence of "Automation."
